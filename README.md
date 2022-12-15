@@ -6,7 +6,7 @@
 
 - pipeline
 
-  ![pipeline](assets/pipeline-x.png)
+  ![pipeline](pipeline-x.png)
 
 ## 安装依赖
 ```bash
